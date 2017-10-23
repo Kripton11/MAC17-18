@@ -1,0 +1,1 @@
+max x y =  (x+y + abs (x-y))/2
